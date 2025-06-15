@@ -1,0 +1,15 @@
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/bin/Debug/net8.0/Sample
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/bin/Debug/net8.0/Sample.deps.json
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/bin/Debug/net8.0/Sample.runtimeconfig.json
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/bin/Debug/net8.0/Sample.dll
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/bin/Debug/net8.0/Sample.pdb
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.AssemblyInfoInputs.cache
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.AssemblyInfo.cs
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.csproj.CoreCompileInputs.cache
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.sourcelink.json
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.dll
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/refint/Sample.dll
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.pdb
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/Sample.genruntimeconfig.cache
+/Users/anthonytk/Desktop/coding/repos/leetcode/c_sharp_dsa/problems/Sample/obj/Debug/net8.0/ref/Sample.dll
